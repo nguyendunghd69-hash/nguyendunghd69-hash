@@ -21,7 +21,7 @@
 - 🧠 Creator of **Zentra** — the world's first psychological performance dashboard for traders
 - 🤖 Building production-grade bots connecting **Telegram → MetaTrader 5 → NinjaTrader 8**
 - 🌍 Based in **Vietnam** | Working with international clients
-- 📫 Reach me at: **[hellozemtra.com](https://www.hellozemtra.com)**
+  
 
 ---
 
