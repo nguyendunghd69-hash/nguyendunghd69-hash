@@ -8,8 +8,6 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-hellozemtra.com-00bfa6?style=for-the-badge&labelColor=1a2332)](https://www.hellozemtra.com)
-[![Status](https://img.shields.io/badge/Status-Available_for_Hire-00ff88?style=for-the-badge&labelColor=1a2332)](https://github.com/nguyendunghd1092004-sys)
 
 </div>
 
